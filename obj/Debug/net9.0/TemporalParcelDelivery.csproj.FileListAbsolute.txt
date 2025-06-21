@@ -1,0 +1,14 @@
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\bin\Debug\net9.0\TemporalParcelDelivery.exe
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\bin\Debug\net9.0\TemporalParcelDelivery.deps.json
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\bin\Debug\net9.0\TemporalParcelDelivery.runtimeconfig.json
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\bin\Debug\net9.0\TemporalParcelDelivery.dll
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\bin\Debug\net9.0\TemporalParcelDelivery.pdb
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\TemporalParcelDelivery.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\TemporalParcelDelivery.AssemblyInfoInputs.cache
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\TemporalParcelDelivery.AssemblyInfo.cs
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\TemporalParcelDelivery.csproj.CoreCompileInputs.cache
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\TemporalParcelDelivery.dll
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\refint\TemporalParcelDelivery.dll
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\TemporalParcelDelivery.pdb
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\TemporalParcelDelivery.genruntimeconfig.cache
+I:\Dev\Personal Projects\c-sharp-tutorial\TemporalParcelDelivery\obj\Debug\net9.0\ref\TemporalParcelDelivery.dll
