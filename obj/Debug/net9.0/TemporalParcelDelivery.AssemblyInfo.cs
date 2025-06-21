@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemporalParcelDelivery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc8c4b1824310d3195a23acbbf790e5b0b8d7238")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemporalParcelDelivery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemporalParcelDelivery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
